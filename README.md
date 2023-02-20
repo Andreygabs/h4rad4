@@ -25,6 +25,7 @@
 - ⚡️ Fun-Fact: I'm admin of a minecraft server (CCNetwork);
 
 **Languages and Tools:** 
+
 <!-- Github readme stats-->
 <p>
   <a href="https://github.com/h4rad4/handle-path-oz">
