@@ -49,3 +49,7 @@
 <p align="center">
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/onimur/h4rad4.svg" />
 </p>
+
+<div align="center">
+  <img src="https://github.com/h4rad4/h4rad4/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+</div>
