@@ -2,7 +2,7 @@
 ## Hello, World!
 
 <p>
-  I'm h4rad4, a Computer Engineering student fascinated in learning new technologies and applying this knowledge in the development of innovations.
+  I'm h4rad4, a Computer Engineering student fascinated with learning new technologies and applying this knowledge in the development of innovations.
 
   My real name is William and i'm currently 19 years old.
 </p>
