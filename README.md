@@ -3,7 +3,6 @@
 
 <p>
   I'm h4rad4, a Computer Engineering student fascinated with learning new technologies and applying this knowledge in the development of innovations.
-
 </p>
 <!-- Badges -->
 
