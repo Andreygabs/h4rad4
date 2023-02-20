@@ -17,8 +17,8 @@
 <!-- Talking about you -->
 **Some Personal Stuff:**
 
-<!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<!-- Any image aligned to the right. Beware the width 
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 
 - 🌱 I’m currently learning Game Development with Unity; 
 - 💬 Ask me about anything, I am happy to help;
@@ -50,3 +50,5 @@
 <p align="center">
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/onimur/h4rad4.svg" />
 </p>
+
+[!snake_gif](https://github.com/h4rad4/h4rad4/blob/output/github-contribution-grid-snake.svg)
