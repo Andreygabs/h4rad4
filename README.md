@@ -17,8 +17,8 @@
 <!-- Talking about you -->
 **Some Personal Stuff:**
 
-<!-- Any image aligned to the right. Beware the width 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
+<!-- Any image aligned to the right. Beware the width -->
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> 
 
 - 🌱 I’m currently learning Game Development with Unity; 
 - 💬 Ask me about anything, I am happy to help;
